@@ -3,6 +3,7 @@
   "version": "9.0.0",
   "description": "大学ポートレートWeb-APIをGoogle Apps Scriptで使うためのライブラリ",
   "main": "src/portraits.js",
+  "type": "module",
   "scripts": {
     "test": "jest --verbose",
     "test-coverage": "jest --coverage"
