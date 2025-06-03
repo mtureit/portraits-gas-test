@@ -4,7 +4,7 @@ import { PortraitsAPI, OrganizationIDs } from './node-portraits.js';
 async function main() {
   try {
     // あなたのアクセスキーを設定
-    const ACCESS_KEY = 'jpcup-ak-TUspURlphE96';
+    const ACCESS_KEY = '';
 
     console.log('=== Node.js環境でのPortraits API使用例 ===\n');
 
