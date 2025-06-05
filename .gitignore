@@ -12,3 +12,6 @@ coverage/
 
 # sample
 sample/
+
+# Environment variables (contains sensitive information)
+.env

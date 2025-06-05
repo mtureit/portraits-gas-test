@@ -1,0 +1,1591 @@
+{
+  "university": "大阪大学",
+  "year": 2024,
+  "timestamp": "2025-06-05T04:51:08.370Z",
+  "successCount": 13,
+  "totalItems": 35,
+  "successRate": "37.1",
+  "studentFacultyData": {
+    "GAKKO": {
+      "GAKKO_MEI": "大阪大学",
+      "GAKKO_YUBIN": "565-0871",
+      "GAKKO_ADDR": "吹田市山田丘１－１"
+    },
+    "GAKUSEI_SU": {
+      "CHUYA_KBN": [
+        {
+          "CHUYA_MEI": "昼間",
+          "GAKUSEI_SU_KEI_M": "15949",
+          "GAKUSEI_SU_KEI_F": "8295",
+          "GAKUSEI_SU_KEI": "24244",
+          "GAKUSEI_SU": [
+            {
+              "GAKUSEI_SU": "2036",
+              "GAKUSEI_TYPE": "博士課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "1199",
+              "GAKUSEI_TYPE": "博士課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "3373",
+              "GAKUSEI_TYPE": "修士課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "1263",
+              "GAKUSEI_TYPE": "修士課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "147",
+              "GAKUSEI_TYPE": "専門職学位課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "64",
+              "GAKUSEI_TYPE": "専門職学位課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "9776",
+              "GAKUSEI_TYPE": "学部・本科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "5283",
+              "GAKUSEI_TYPE": "学部・本科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専攻科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専攻科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "別科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "別科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "482",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 学部卒以上",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "384",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 学部卒以上",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "135",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 左記以外",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "102",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 左記以外",
+              "GAKUSEI_SEX": "女"
+            }
+          ]
+        },
+        {
+          "CHUYA_MEI": "夜間",
+          "GAKUSEI_SU_KEI_M": "0",
+          "GAKUSEI_SU_KEI_F": "0",
+          "GAKUSEI_SU_KEI": "0",
+          "GAKUSEI_SU": [
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "博士課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "博士課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "修士課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "修士課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専門職学位課程",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専門職学位課程",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "学部・本科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "学部・本科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専攻科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "専攻科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "別科",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "別科",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 学部卒以上",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 学部卒以上",
+              "GAKUSEI_SEX": "女"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 左記以外",
+              "GAKUSEI_SEX": "男"
+            },
+            {
+              "GAKUSEI_SU": "",
+              "GAKUSEI_TYPE": "科目等履修生・聴講生・研究生 左記以外",
+              "GAKUSEI_SEX": "女"
+            }
+          ]
+        }
+      ]
+    },
+    "KYOIN_SU_HOMMUSHA": {
+      "HOMMU": [
+        {
+          "KYOIN_MEI": "学長・副学長",
+          "KYOIN_MEI_FUGO": "9980",
+          "HOMMU_KYOIN_SU_KEI_M": "8",
+          "HOMMU_KYOIN_SU_KEI_F": "2",
+          "HOMMU_KYOIN_SU_KEI": "10",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "1",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "学長",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "学長",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "7",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "副学長",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "2",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "副学長",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        }
+      ],
+      "GAKUBU": [
+        {
+          "GAKUBU_MEI": "教養部(一般教育)",
+          "GAKUBU_MEI_FUGO": "9000",
+          "GAKUBU_KYOIN_SU_KEI_M": "0",
+          "GAKUBU_KYOIN_SU_KEI_F": "0",
+          "GAKUBU_KYOIN_SU_KEI": "0",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        },
+        {
+          "GAKUBU_MEI": "大学院",
+          "GAKUBU_MEI_FUGO": "9800",
+          "GAKUBU_KYOIN_SU_KEI_M": "1874",
+          "GAKUBU_KYOIN_SU_KEI_F": "470",
+          "GAKUBU_KYOIN_SU_KEI": "2344",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "618",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "101",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "461",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "115",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "173",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "59",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "620",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "190",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "2",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "5",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        },
+        {
+          "GAKUBU_MEI": "附属病院",
+          "GAKUBU_MEI_FUGO": "9100",
+          "GAKUBU_KYOIN_SU_KEI_M": "100",
+          "GAKUBU_KYOIN_SU_KEI_F": "18",
+          "GAKUBU_KYOIN_SU_KEI": "118",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "6",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "2",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "20",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "1",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "24",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "6",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "50",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "9",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        },
+        {
+          "GAKUBU_MEI": "附置研究所",
+          "GAKUBU_MEI_FUGO": "9200",
+          "GAKUBU_KYOIN_SU_KEI_M": "281",
+          "GAKUBU_KYOIN_SU_KEI_F": "63",
+          "GAKUBU_KYOIN_SU_KEI": "344",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "88",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "13",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "80",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "13",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "15",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "6",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "98",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "31",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        },
+        {
+          "GAKUBU_MEI": "その他",
+          "GAKUBU_MEI_FUGO": "9900",
+          "GAKUBU_KYOIN_SU_KEI_M": "379",
+          "GAKUBU_KYOIN_SU_KEI_F": "137",
+          "GAKUBU_KYOIN_SU_KEI": "516",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "148",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "21",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "121",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "53",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "26",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "19",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "84",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "44",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        }
+      ],
+      "KEI": [
+        {
+          "MEISHO": "計",
+          "MEISHO_FUGO": "9999",
+          "KYOIN_SU_KEI_M": "2642",
+          "KYOIN_SU_KEI_F": "690",
+          "KYOIN_SU_KEI": "3332",
+          "KYOIN_SU": [
+            {
+              "KYOIN_SU": "1",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "学長",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "0",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "学長",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "7",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "副学長",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "2",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "副学長",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "860",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "137",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "682",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "182",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "准教授",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "238",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "90",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "講師",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "852",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "274",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助教",
+              "KYOIN_SEX": "女"
+            },
+            {
+              "KYOIN_SU": "2",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "男"
+            },
+            {
+              "KYOIN_SU": "5",
+              "KYOIN_TYPE": "本務",
+              "KYOIN_SHOKUNA": "助手",
+              "KYOIN_SEX": "女"
+            }
+          ]
+        }
+      ]
+    },
+    "KYOIN_SU_HOMMUSHA_UCHI": [
+      {
+        "HOMMU_UCHI": [
+          {
+            "HOMMU_MEI": "大学院担当者",
+            "KYOIN_SU_KEI_M": "2634",
+            "KYOIN_SU_KEI_F": "688",
+            "KYOIN_SU_KEI": "3322",
+            "KYOIN_SU": [
+              {
+                "KYOIN_SU": "860",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "137",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "682",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "182",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "238",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "90",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "852",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "274",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "2",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "5",
+                "KYOIN_TYPE": "大学院担当者",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "女"
+              }
+            ]
+          },
+          {
+            "HOMMU_MEI": "休職者",
+            "KYOIN_SU_KEI_M": "5",
+            "KYOIN_SU_KEI_F": "6",
+            "KYOIN_SU_KEI": "11",
+            "KYOIN_SU": [
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "学長",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "学長",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "副学長",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "副学長",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休��者",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "1",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "2",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "4",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "4",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "休職者",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "女"
+              }
+            ]
+          },
+          {
+            "HOMMU_MEI": "外国人",
+            "KYOIN_SU_KEI_M": "176",
+            "KYOIN_SU_KEI_F": "120",
+            "KYOIN_SU_KEI": "296",
+            "KYOIN_SU": [
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "学長",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "学長",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "副学長",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "1",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "副学長",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "15",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "17",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "55",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "26",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "准教授",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "26",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "22",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "講師",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "80",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "54",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "助教",
+                "KYOIN_SEX": "女"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "男"
+              },
+              {
+                "KYOIN_SU": "0",
+                "KYOIN_TYPE": "外国人",
+                "KYOIN_SHOKUNA": "助手",
+                "KYOIN_SEX": "女"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "KYOIN_SU_KEMMUSHA": [
+      {
+        "KYOIN_SU_KEI_M": "560",
+        "KYOIN_SU_KEI_F": "307",
+        "KYOIN_SU_KEI": "867",
+        "KYOIN_SU": [
+          {
+            "KYOIN_SU": "",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "学長",
+            "KYOIN_SEX": "男"
+          },
+          {
+            "KYOIN_SU": "",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "学長",
+            "KYOIN_SEX": "女"
+          },
+          {
+            "KYOIN_SU": "",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "副学長",
+            "KYOIN_SEX": "男"
+          },
+          {
+            "KYOIN_SU": "",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "副学長",
+            "KYOIN_SEX": "女"
+          },
+          {
+            "KYOIN_SU": "236",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "教員からの兼務",
+            "KYOIN_SEX": "男"
+          },
+          {
+            "KYOIN_SU": "75",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "教員からの兼務",
+            "KYOIN_SEX": "女"
+          },
+          {
+            "KYOIN_SU": "324",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "教員以外からの兼務",
+            "KYOIN_SEX": "男"
+          },
+          {
+            "KYOIN_SU": "232",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_BUNRUI": "教員以外からの兼務",
+            "KYOIN_SEX": "女"
+          }
+        ]
+      }
+    ],
+    "KYOIN_SU_KEMMUSHA_GAI": [
+      {
+        "KYOIN_SU_KEI": "109",
+        "KYOIN_SU": [
+          {
+            "KYOIN_SU": "62",
+            "KYOIN_BUNRUI": "外国人",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_SEX": "男"
+          },
+          {
+            "KYOIN_SU": "47",
+            "KYOIN_BUNRUI": "外国人",
+            "KYOIN_TYPE": "兼務",
+            "KYOIN_SEX": "女"
+          }
+        ]
+      }
+    ],
+    "SHOKUIN_SU": [
+      {
+        "SHOKUIN_SU_KEI_M": "963",
+        "SHOKUIN_SU_KEI_F": "2661",
+        "SHOKUIN_SU_KEI": "3624",
+        "SHOKUIN_SU_KEITO": [
+          {
+            "SHOKUIN_SU": "517",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "事務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "1087",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "事務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "176",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "技術技能系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "136",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "技術技能系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "266",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "1438",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "1",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "教務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "教務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "3",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "その他",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "その他",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "6",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "看護師",
+            "SHOKUIN_KANGO_TYPE": "学生の健康管理",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "1210",
+            "SHOKUIN_TYPE": "本務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "看護師",
+            "SHOKUIN_KANGO_TYPE": "附属病院",
+            "SHOKUIN_SEX": "女"
+          }
+        ]
+      },
+      {
+        "SHOKUIN_SU_KEI_M": "0",
+        "SHOKUIN_SU_KEI_F": "0",
+        "SHOKUIN_SU_KEI": "0",
+        "SHOKUIN_SU_KEITO": [
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "事務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "事務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "技術技能系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "技術技能系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "教務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "教務系",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "その他",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "その他",
+            "SHOKUIN_SHOKUSHU": "",
+            "SHOKUIN_KANGO_TYPE": "",
+            "SHOKUIN_SEX": "女"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "看護師",
+            "SHOKUIN_KANGO_TYPE": "学生の健康管理",
+            "SHOKUIN_SEX": "男"
+          },
+          {
+            "SHOKUIN_SU": "",
+            "SHOKUIN_TYPE": "兼務",
+            "SHOKUIN_KEITO": "医療系",
+            "SHOKUIN_SHOKUSHU": "看護師",
+            "SHOKUIN_KANGO_TYPE": "附属病院",
+            "SHOKUIN_SEX": "女"
+          }
+        ]
+      }
+    ],
+    "GAKKO_KIHON": {
+      "GAKKO_CHOSA_CD": "F127110107852",
+      "SHOZAICHI_CD": "27"
+    }
+  },
+  "organizationCategories": {
+    "undergraduate": [
+      {
+        "ID": "0292-27-27-1A01-00-1",
+        "DEP": "文学部"
+      },
+      {
+        "ID": "0292-27-27-1A05-00-1",
+        "DEP": "外国語学部"
+      },
+      {
+        "ID": "0292-27-27-1C05-00-1",
+        "DEP": "法学部"
+      },
+      {
+        "ID": "0292-27-27-1C09-00-1",
+        "DEP": "経済学部"
+      },
+      {
+        "ID": "0292-27-27-1E01-00-1",
+        "DEP": "理学部"
+      },
+      {
+        "ID": "0292-27-27-1G01-00-1",
+        "DEP": "工学部"
+      },
+      {
+        "ID": "0292-27-27-1G02-00-1",
+        "DEP": "基礎工学部"
+      },
+      {
+        "ID": "0292-27-27-1M04-00-1",
+        "DEP": "医学部（修業年限４年）"
+      },
+      {
+        "ID": "0292-27-27-1M04-00-1",
+        "DEP": "医学部（保健学科）"
+      },
+      {
+        "ID": "0292-27-27-1M10-00-1",
+        "DEP": "薬学部（４年制）"
+      },
+      {
+        "ID": "0292-27-27-1M10-00-1",
+        "DEP": "薬学部（修業年限４年）"
+      },
+      {
+        "ID": "0292-27-27-1M10-00-1",
+        "DEP": "薬学部（薬科学科）"
+      },
+      {
+        "ID": "0292-27-27-1X37-00-1",
+        "DEP": "人間科学部"
+      },
+      {
+        "ID": "0292-27-27-1Z99-00-1",
+        "DEP": "いずれの学部にも所属しない聴講生・研究生等"
+      },
+      {
+        "ID": "0292-27-27-4M02-00-1",
+        "DEP": "医学部（医学科）"
+      },
+      {
+        "ID": "0292-27-27-4M02-00-1",
+        "DEP": "医学部（群）（専門課程）"
+      },
+      {
+        "ID": "0292-27-27-4M02-00-1",
+        "DEP": "医学部（修業年限６年）"
+      },
+      {
+        "ID": "0292-27-27-4M08-00-1",
+        "DEP": "歯学部"
+      },
+      {
+        "ID": "0292-27-27-4M08-00-1",
+        "DEP": "歯学部（修業年限６年）"
+      },
+      {
+        "ID": "0292-27-27-4M08-00-1",
+        "DEP": "歯学部（専門課程）"
+      },
+      {
+        "ID": "0292-27-27-4M48-00-1",
+        "DEP": "薬学部（６年制）"
+      },
+      {
+        "ID": "0292-27-27-4M48-00-1",
+        "DEP": "薬学部（修業年限６年）"
+      },
+      {
+        "ID": "0292-27-27-4M48-00-1",
+        "DEP": "薬学部（薬学科）"
+      }
+    ],
+    "mastersCourse": [
+      {
+        "ID": "0292-27-27-1A01-01-1",
+        "DEP": "文学研究科"
+      },
+      {
+        "ID": "0292-27-27-1A01-01-1",
+        "DEP": "文学研究科（修士課程）"
+      },
+      {
+        "ID": "0292-27-27-1M02-01-1",
+        "DEP": "医学系研究科"
+      },
+      {
+        "ID": "0292-27-27-1M02-01-1",
+        "DEP": "医学系研究科（修士課程）"
+      }
+    ],
+    "doctoralFront": [
+      {
+        "ID": "0292-27-27-2A01-02-1",
+        "DEP": "文学研究科"
+      },
+      {
+        "ID": "0292-27-27-2A01-02-1",
+        "DEP": "文学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2A09-02-1",
+        "DEP": "人文学研究科"
+      },
+      {
+        "ID": "0292-27-27-2A17-02-1",
+        "DEP": "言語文化研究科"
+      },
+      {
+        "ID": "0292-27-27-2A17-02-1",
+        "DEP": "言語文化研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2C01-02-1",
+        "DEP": "法学研究科"
+      },
+      {
+        "ID": "0292-27-27-2C01-02-1",
+        "DEP": "法学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2C09-02-1",
+        "DEP": "経済学研究科"
+      },
+      {
+        "ID": "0292-27-27-2C09-02-1",
+        "DEP": "経済学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2C52-02-1",
+        "DEP": "国際公共政策研究科"
+      },
+      {
+        "ID": "0292-27-27-2C52-02-1",
+        "DEP": "国際公共政策研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2E01-02-1",
+        "DEP": "理学研究科"
+      },
+      {
+        "ID": "0292-27-27-2E01-02-1",
+        "DEP": "理学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2G01-02-1",
+        "DEP": "工学研究科"
+      },
+      {
+        "ID": "0292-27-27-2G01-02-1",
+        "DEP": "工学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2G04-02-1",
+        "DEP": "基礎工学研究科"
+      },
+      {
+        "ID": "0292-27-27-2G04-02-1",
+        "DEP": "基礎工学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2G11-02-1",
+        "DEP": "情報科学研究科"
+      },
+      {
+        "ID": "0292-27-27-2G11-02-1",
+        "DEP": "情報科学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2M02-02-1",
+        "DEP": "医学系研究科"
+      },
+      {
+        "ID": "0292-27-27-2M02-02-1",
+        "DEP": "医学系研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2M04-02-1",
+        "DEP": "薬学研究科"
+      },
+      {
+        "ID": "0292-27-27-2M04-02-1",
+        "DEP": "薬学研究科（博士課程(前期)）"
+      },
+      {
+        "ID": "0292-27-27-2X05-02-1",
+        "DEP": "人間科学研究科"
+      },
+      {
+        "ID": "0292-27-27-2X05-02-1",
+        "DEP": "人間科学研究科（博士課程(前期)）"
+      }
+    ],
+    "doctoralBack": [
+      {
+        "ID": "0292-27-27-4A01-03-1",
+        "DEP": "文学研究科"
+      },
+      {
+        "ID": "0292-27-27-4A01-03-1",
+        "DEP": "文学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4A17-03-1",
+        "DEP": "言語文化研究科"
+      },
+      {
+        "ID": "0292-27-27-4A17-03-1",
+        "DEP": "言語文化研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4C01-03-1",
+        "DEP": "法学研究科"
+      },
+      {
+        "ID": "0292-27-27-4C01-03-1",
+        "DEP": "法学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4C09-03-1",
+        "DEP": "経済学研究科"
+      },
+      {
+        "ID": "0292-27-27-4C09-03-1",
+        "DEP": "経済学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4C52-03-1",
+        "DEP": "国際公共政策研究科"
+      },
+      {
+        "ID": "0292-27-27-4C52-03-1",
+        "DEP": "国際公共政策研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4E01-03-1",
+        "DEP": "理学研究科"
+      },
+      {
+        "ID": "0292-27-27-4E01-03-1",
+        "DEP": "理学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4G01-03-1",
+        "DEP": "工学研究科"
+      },
+      {
+        "ID": "0292-27-27-4G01-03-1",
+        "DEP": "工学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4G04-03-1",
+        "DEP": "基礎工学研究科"
+      },
+      {
+        "ID": "0292-27-27-4G04-03-1",
+        "DEP": "基礎工学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4G11-03-1",
+        "DEP": "情報科学研究科"
+      },
+      {
+        "ID": "0292-27-27-4G11-03-1",
+        "DEP": "情報科学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4M02-03-1",
+        "DEP": "医学系研究科"
+      },
+      {
+        "ID": "0292-27-27-4M02-03-1",
+        "DEP": "医学系研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4M04-03-1",
+        "DEP": "薬学研究科"
+      },
+      {
+        "ID": "0292-27-27-4M04-03-1",
+        "DEP": "薬学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4M60-03-1",
+        "DEP": "大阪大学・金沢大学・浜松医科大学・千葉大学・福井大学連合小児発達学研究科"
+      },
+      {
+        "ID": "0292-27-27-4M60-03-1",
+        "DEP": "大阪大学・金沢大学・浜松医科大学・千葉大学・福井大学連合小児発達学研究科（博士課程(後期)）"
+      },
+      {
+        "ID": "0292-27-27-4M60-03-1",
+        "DEP": "連合小児発達学研究科"
+      },
+      {
+        "ID": "0292-27-27-4X05-03-1",
+        "DEP": "人間科学研究科"
+      },
+      {
+        "ID": "0292-27-27-4X05-03-1",
+        "DEP": "人間科学研究科（博士課程(後期)）"
+      }
+    ],
+    "unified": [
+      {
+        "ID": "0292-27-27-5E19-06-1",
+        "DEP": "生命機能研究科"
+      },
+      {
+        "ID": "0292-27-27-6M02-04-1",
+        "DEP": "医学系研究科"
+      },
+      {
+        "ID": "0292-27-27-6M02-04-1",
+        "DEP": "医学系研究科（博士課程(一貫)）"
+      },
+      {
+        "ID": "0292-27-27-6M03-04-1",
+        "DEP": "歯学研究科"
+      },
+      {
+        "ID": "0292-27-27-6M03-04-1",
+        "DEP": "歯学研究科（博士課程(一貫)）"
+      },
+      {
+        "ID": "0292-27-27-6M04-04-1",
+        "DEP": "薬学研究科"
+      },
+      {
+        "ID": "0292-27-27-6M04-04-1",
+        "DEP": "薬学研究科（博士課程(一貫)）"
+      }
+    ],
+    "professional": [
+      {
+        "ID": "0292-27-27-CC87-08-1",
+        "DEP": "高等司法研究科"
+      }
+    ]
+  },
+  "improvements": [
+    "仕様書準拠の組織ID使用",
+    "APIエラー詳細表示",
+    "データ構造詳細分析",
+    "複数年度テスト",
+    "外国人学生用組織ID対応",
+    "教員数データ取得成功",
+    "学生種別詳細データ取得成功"
+  ]
+}
