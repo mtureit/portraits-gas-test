@@ -1,7 +1,7 @@
 # Node.js
 node_modules/
 
-# clasp
+# claspだ
 .clasp.json
 
 # system
